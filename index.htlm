@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil - Mon Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur Mon Portfolio</h1>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="about.html">À propos</a>
+            <a href="skills.html">Compétences</a>
+            <a href="projects.html">Projets</a>
+			<a href="hobbies.html">Hobbies & Activités</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Présentation</h2>
+        <p>Bienvenue sur mon portfolio. Je suis Melf Yembi, ingénieur travaux et urbaniste, spécialisé dans la gestion de projets immobiliers et d’infrastructures. Mon objectif est de contribuer au développement durable et à la transformation des espaces urbains en Afrique grâce à mon expertise en aménagement urbain, gestion de projets et coordination d’équipes pluridisciplinaires.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mon Portfolio</p>
+    </footer>
+</body>
+</html>

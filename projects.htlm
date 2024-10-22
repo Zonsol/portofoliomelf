@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projets</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mes projets</h1>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="about.html">À propos</a>
+            <a href="skills.html">Compétences</a>
+            <a href="projects.html">Projets</a>
+			<a href="hobbies.html">Hobbies & Activités</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Projets</h2>
+    <p>Voici quelques-uns des projets sur lesquels j'ai travaillé :</p>
+    <ul>
+        <li onmouseover="highlightProject()"><strong>Aménagement du rond-point de la mairie d’Abobo</strong> - Pilotage des opérations, gestion des équipes et respect des délais et budgets.</li>
+        <li onmouseover="highlightProject()"><strong>Projet immobilier de Bingerville</strong> - Coordination de l’étude de faisabilité et des étapes de mise en œuvre.</li>
+		<li onmouseover="highlightProject()"><strong>Restructuration urbaine de Kovié (Togo)</strong> - Participation à la conception d'un plan d'urbanisme pour revitaliser le noyau ancien de la localité.</li>
+        <li onmouseover="highlightProject()"><strong>Schéma Directeur de la région des Savanes (Côte d'Ivoire</strong> - Élaboration de stratégies d’aménagement pour un développement durable.</li>
+    </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mon Portfolio</p>
+    </footer>
+</body>
+</html>
+<script>
+    function highlightProject() {
+        alert("Vous survolez un projet !");
+    }
+</script>

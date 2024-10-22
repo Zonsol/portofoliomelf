@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hobbies & Activités Sportives</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mes Hobbies et Activités Sportives</h1>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="about.html">À propos</a>
+            <a href="skills.html">Compétences</a>
+            <a href="projects.html">Projets</a>
+            <a href="hobbies.html">Hobbies & Activités</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Mes Passions</h2>
+        <p>En dehors de mes engagements professionnels, je m'intéresse à :</p>
+		<ul>
+			<li>Photographie : Passion pour la capture de paysages urbains et ruraux.</li>
+			<li>Sport : Pratique régulière du football et du jogging pour maintenir un bon équilibre physique et mental.</li>
+			<li>Technologie et innovation : Intérêt pour les nouvelles technologies, notamment en matière de développement durable et d'urbanisme.</li>
+			<li>Voyages : Découvrir le monde</li>
+		</ul>
+.
+        <!-- Tu peux ajouter ici une liste de tes hobbies et activités -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mon Portfolio</p>
+    </footer>
+</body>
+</html>

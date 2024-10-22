@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compétences</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mes compétence</h1>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="about.html">À propos</a>
+            <a href="skills.html">Compétences</a>
+            <a href="projects.html">Projets</a>
+			<a href="hobbies.html">Hobbies & Activités</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Compétences</h2>
+    <p>Je possède une vaste gamme de compétences techniques et managériales, acquises à travers mes expériences dans les domaines de la construction et de l’urbanisme.</p>
+    <ul>
+        <li><strong>Gestion de projets immobiliers</strong> - Planification, suivi de projet, gestion de budgets et coordination des équipes.</li>
+        <li><strong>Passation de marchés</strong> - Gestion des appels d'offres, négociation et suivi des contrats.</li>
+		<li><strong>Conformité E&S</strong> - Expertise en normes environnementales et sociales (HSSE, OIT, SFI).</li>
+        <li><strong>Compétences techniques</strong> - Utilisation de logiciels tels qu’Autocad, Ms Project, QGIS, PowerBI.</li>
+		<li><strong>Gestion des risques</strong> - Capacité à gérer et à anticiper les risques et modifications de projets.</li>
+    </ul>
+</section>
+
+    <footer>
+        <p>&copy; 2024 Mon Portfolio</p>
+    </footer>
+</body>
+</html>
